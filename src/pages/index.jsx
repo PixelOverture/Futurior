@@ -1,5 +1,5 @@
 import React from 'react'
-import Layout from '../components/layout/index'
+import Layout from '../components/kerangka'
 import HeroSection from '../components/Sections/HeroSection'
 import PartnerSection from '../components/Sections/PartnerSection'
 import Features from '../components/Sections/Features'
