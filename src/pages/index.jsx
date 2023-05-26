@@ -1,5 +1,5 @@
 import React from 'react'
-import Layout from '../components/layout'
+import Layout from '../components/layout/index.jsx'
 import HeroSection from '../components/Sections/HeroSection'
 import PartnerSection from '../components/Sections/PartnerSection'
 import Features from '../components/Sections/Features'
@@ -21,8 +21,9 @@ export default function Index() {
     <br></br>
     <br></br>
     <br></br>
-    <br></br>
+    <br></br> 
     <div className="text-[#A3A3A3] grid place-items-center">©2023 FUTURIOR - All Rights Reserved.</div>
+    <br></br>
     <br></br>
     </>
   )
