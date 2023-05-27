@@ -1,6 +1,6 @@
 import React from 'react'
 import Logo from '../../images/Logo.png'
-import PrimaryButton from '../buttons/PrimaryButton'
+import PrimaryButton from '../Buttons/PrimaryButton'
 import Line from '../../images/line.svg'
 
 export default function Navbar() {
